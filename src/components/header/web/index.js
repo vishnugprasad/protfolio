@@ -1,6 +1,6 @@
 import React from "react";
 import "./web.css";
-import { ReactComponent as CloseIcon } from "../../../images/cross-circle.svg";
+// import { ReactComponent as CloseIcon } from "../../../images/cross-circle.svg";
 
 function Web() {
   return (

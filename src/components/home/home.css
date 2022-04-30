@@ -8,7 +8,7 @@ html{
     flex-direction: column;
     margin: auto;
     width: 70%;
-    background-color: rgb(239, 244, 242);
+    background-color: rgb(255, 255, 255);
 }
 
 @media only screen and (max-width: 1024px){
