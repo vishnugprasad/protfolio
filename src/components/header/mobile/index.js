@@ -3,6 +3,7 @@ import "./mobile.css"
 
 function Mobile({isOpen, setIsOpen}) {
   return (
+    <div className='mobile'>
     <div className='close-icon' onClick={()=> setIsOpen(!isOpen)}>
      
       <i class="fi fi-rr-cross-circle "></i>
@@ -26,13 +27,14 @@ function Mobile({isOpen, setIsOpen}) {
             WORK
         </a>
       </div>
-    
+
       <div className="mobile-option">
         <a href="#connect">
             CONNECT
         </a>
       </div>
       </div>
+    </div>
     </div>
   )
 }
