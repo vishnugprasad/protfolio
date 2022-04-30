@@ -14,7 +14,8 @@ function About() {
 
         </div>
         <div className='about-bottom'>
-            this is social contact icons
+            about
+            {/* this is social contact icons */}
         </div>
     </div>
   )
