@@ -1,0 +1,22 @@
+.about{
+    padding-bottom: 48px;
+}
+
+.about-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-picture{
+    height: 420px;
+}
+
+.about-info{
+    font-size: 24px;
+}
+
+.info-name{
+    color: blue;
+    font-size: 32px;
+}
