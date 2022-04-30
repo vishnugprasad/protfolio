@@ -24,7 +24,7 @@ function Web() {
       </div>
 
       <div className="web-option">
-        <a href="#connect">
+        <a href="#contact">
             CONNECT
         </a>
       </div>
