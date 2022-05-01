@@ -1,0 +1,22 @@
+.project-card{
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    align-items: center;
+    margin: 16px 0px;
+    padding: 8px 0px;
+
+
+}
+
+
+.project-photo {
+    width: 40%;
+}
+.project-info{
+    margin-right: 24px;
+}
+.project-title{
+    font-size: 20px;
+    font-weight: 600;
+}
