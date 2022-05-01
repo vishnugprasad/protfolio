@@ -4,7 +4,7 @@ import "./body.css"
 import Contact from './contact'
 import Projects from './projects'
 import Skills from './skills'
-import Work from './work'
+// import Work from './work'
 function Body() {
   return (
     <div className='body'>
@@ -17,9 +17,9 @@ function Body() {
       <section id = "skills">
         <Skills></Skills>
       </section>
-      <section id = "work">
+      {/* <section id = "work">
         <Work></Work>
-      </section>
+      </section> */}
       <section id = "contact">
         <Contact></Contact>
       </section>
