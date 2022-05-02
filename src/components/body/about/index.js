@@ -12,7 +12,7 @@ function About() {
                 skills to build great and premimum websites.
             </div>
             <div className='about-photo'>
-                <img src = {require("../../../assets/coding.png")} className = "about-picture"/>
+                <img src = {require("../../../assets/coding.png") } className = "about-picture" alt = "vishnu"/>
             </div>
 
         </div>
