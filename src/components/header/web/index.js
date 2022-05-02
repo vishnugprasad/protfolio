@@ -20,9 +20,9 @@ function Web() {
         </a>
       </div>
 
-      <div className="web-option">
+      {/* <div className="web-option">
         <a href="#work">WORK</a>
-      </div>
+      </div> */}
 
       <div className="web-option">
         <a href="#contact">CONNECT</a>
