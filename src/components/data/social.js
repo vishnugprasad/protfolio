@@ -1,5 +1,10 @@
 export const SocialData = [
     {
+        platform: "Instagram",
+        link : "https://www.instagram.com/viizhnu/",
+        icon: require("../../assets/instagram.png")
+    },
+    {
         platform: "Github",
         link : "https://github.com/vishnugprasad",
         icon: require("../../assets/github.png")
