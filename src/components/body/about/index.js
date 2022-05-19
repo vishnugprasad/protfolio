@@ -7,7 +7,7 @@ function About() {
     <div className='about'>
         <div className='about-top'>
             <div className='about-info'>
-                My name is <span className='info-name'>Vishnu G Prasad</span>. I'm a Full Stack Developer based in India.
+                Hi this is <span className='info-name'>Vishnu G Prasad</span>. I'm a Full Stack Developer based in India.
                 I  am a passionate and dedicated Developer who owns the necessary
                 skills to build great and premimum websites.
             </div>
