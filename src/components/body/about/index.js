@@ -7,9 +7,9 @@ function About() {
     <div className='about'>
         <div className='about-top'>
             <div className='about-info'>
-                Hi this is <span className='info-name'>Vishnu G Prasad</span>. I'm a Full Stack Developer based in India.
+                Hi this is <span className='info-name'>Vishnu G Prasad</span>. I'm a Full Stack Developer and Blockchain Development enthusiast based in India.
                 I  am a passionate and dedicated Developer who owns the necessary
-                skills to build great and premimum websites.
+                skills to build great and premimum websites. 
             </div>
             <div className='about-photo'>
                 <img src = {require("../../../assets/coding.png") } className = "about-picture" alt = "vishnu"/>
